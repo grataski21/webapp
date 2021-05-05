@@ -6,7 +6,7 @@ import java.awt.event.*;
 
 /**
  * 
- * @author Sydney and Grant
+ * @author Grant
  * Creates an interactive Pet Adoption form using a combination of jlabel, jcombobox to bring up an adoption form
  */
 public class PetAdoptionForm 
